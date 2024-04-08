@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CourseRegistration</string>
+    <string name="priority" />
+    <string name="enter_course_waiting_for">Enter Course Waiting For</string>
+    <string name="student_name">Student Name</string>
+    <string name="add_student">Add Student</string>
+    <string name="remove_student">Remove Student</string>
+    <string name="edit_student">Edit Student</string>
+    <string name="finish_edit">Finish Edit</string>
+</resources>
